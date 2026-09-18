@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Generated database
+store.db
+
+# Python caches
+__pycache__/
+*.pyc
